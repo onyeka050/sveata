@@ -856,6 +856,9 @@ header {
     font-weight: 500;
     font-size: 1.3rem;
   }
+  .hero-img img{
+    width:25rem;
+  }
   .hero .img-1 {
     position: absolute;
     left: 1rem;
@@ -952,13 +955,14 @@ header {
     border-radius: 0px;
     padding: 0;
     text-align: center;
-    margin-bottom: 20rem;
+    margin-bottom: 10rem;
     height: 35rem;
   }
   .section-2 .img-2 {
     position: absolute;
     top: 143rem;
     right: 5rem;
+    display: none;
   }
 
   .section-2 .main {
@@ -1098,7 +1102,7 @@ header {
     height: 25rem;
     width: 25rem;
     position: absolute;
-    top: 245rem;
+    top: 222rem;
   }
   .section-5 {
     display: flex;
