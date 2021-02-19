@@ -159,7 +159,7 @@ header {
 .section-1 {
   width: 60%;
   margin: 0 auto;
-  margin-top: 18rem;
+  margin-top: 8rem;
   margin-bottom: 8rem;
 }
 .section-1 h2 {
@@ -735,7 +735,7 @@ header {
     height: 25rem;
     width: 25rem;
     position: absolute;
-    bottom: -215rem;
+    bottom: -218rem;
   }
   .section-5 {
     display: flex;
@@ -744,6 +744,8 @@ header {
     align-items: center;
     width: 100%;
     margin: 0 auto;
+  
+
   }
   .section-5 .main-text {
     width: 100%;
